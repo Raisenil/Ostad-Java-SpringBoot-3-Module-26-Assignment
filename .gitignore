@@ -35,5 +35,7 @@ build/
 # Local data and cloned repos
 JavaInREADME/
 JavaInReadmeBackend/
+source/
+backup/
 data/
 
